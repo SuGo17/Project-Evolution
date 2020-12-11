@@ -197,8 +197,8 @@ header a
         background:#00000060 ;
         border: 0.5px solid #ffffff20;
     }
-    .social-links
+    .copyrights
     {
-        position: static;
+        width:100%;
     }
 }
